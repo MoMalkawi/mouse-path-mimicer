@@ -1,7 +1,7 @@
 # MouseRecorderRepeater
 Records Mouse Path &amp; uses path to move to a different Point
 
-* Dislaimer: Code is messy as this was just me fooling around and I built this long ago to test something with it, use it to record paths or to learn something... Idk
+* Disclaimer: Code is messy as this was just me fooling around and I built this long ago to test something with it, use it to record paths or to learn something... Idk
 * Disclaimer 2: DOES NOT PLAY LONGER PATHS THAN THE RECORDED ONE. (So if you record a path which his 500px in length, you can't play a 501px path.)
 
 https://user-images.githubusercontent.com/108372910/176319089-724e3a09-470e-4b4d-aeaa-6c2145de3d18.mp4
